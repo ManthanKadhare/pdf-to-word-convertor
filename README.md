@@ -4,16 +4,6 @@ A simple and efficient **PDF to Word (.docx) converter** that works using a clea
 Just drop your PDF files into the `input` folder, run the script, and get editable Word documents in the `output` folder — no complicated UI needed.
 
 ---
-
-## 🖼️ Screenshots
-
-> 💡 Replace these links with your own screenshots after you upload them to GitHub.
-
-<img width="800" alt="CLI running the PDF to Word converter" src="PUT-YOUR-SCREENSHOT-LINK-HERE" />
-<img width="800" alt="Input and Output folder structure" src="PUT-YOUR-SECOND-SCREENSHOT-LINK-HERE" />
-
----
-
 ## 🚀 Features
 
 - 📂 **Folder-based workflow** — works with `input` and `output` directories
@@ -171,6 +161,5 @@ Possible enhancements you can add to this project:
 
 🏁 License
 
-This project is open source and available under the MIT License
-.
-Feel free to fork, use, and improve it
+This project is open source and available under the MIT License.
+Feel free to fork, use, and improve it⭐
