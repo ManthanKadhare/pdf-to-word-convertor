@@ -46,6 +46,7 @@ pdf-to-word-converter/
 
 * pdf_to_word.py — the code file you will run
 
+---
 
 ## ⚙️ Setup Instructions
 
